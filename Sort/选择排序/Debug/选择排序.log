@@ -1,0 +1,7 @@
+﻿D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(选择排序.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Search.cpp
+  SORT.cpp
+  autoArr.cpp
+  正在生成代码...
+D:\desk\data_structures_and_algorithms\Sort\选择排序\Search.cpp(45): warning C4715: “BinarySearch2”: 不是所有的控件路径都返回值
+  选择排序.vcxproj -> D:\desk\data_structures_and_algorithms\Sort\选择排序\Debug\SORT.exe
